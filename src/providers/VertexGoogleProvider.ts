@@ -14,6 +14,7 @@ const ALLOWED_SCHEMA_FIELDS = new Set([
   "description",
   "enum",
   "example",
+  "examples",
   "format",
   "items",
   "maxItems",
